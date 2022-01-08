@@ -1,4 +1,4 @@
-FROM docker.io/pavani333/deeplearning
+FROM docker.io/sankeerthbussa/deeplearning
 
 ADD pima_indians_diabetes.py / 
 
