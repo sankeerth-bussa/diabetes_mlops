@@ -8,6 +8,8 @@ ADD app.py /
 
 ADD templates /templates
 
+EXPOSE 80
+
 CMD ["pima_indians_diabetes.py"]
 
 ENTRYPOINT ["python3"]
